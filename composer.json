@@ -1,0 +1,17 @@
+{
+    "name": "vendor/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "salut",
+            "email": "killian.portier@yahoo.fr"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
